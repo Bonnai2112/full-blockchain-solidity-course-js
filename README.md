@@ -689,7 +689,7 @@ Backup Faucet: https://goerlifaucet.com/
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
 ## Basic Solidity: Importing Contracts into other Contracts
-- [Composibility](https://chain.link/techtalks/defi-composability)
+- [Composability](https://ethereum.org/en/developers/docs/smart-contracts/composability/)
 - [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
